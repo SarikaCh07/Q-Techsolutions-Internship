@@ -16,8 +16,8 @@ class simpleinterest {
 
     double interest = (principal * time * rate) / 100;
 
-    System.out.println("Principal: " + principal);
-    System.out.println("Interest Rate: " + rate);
+    System.out.println("Principal Amount: " + principal);
+    System.out.println("Rate of Interest: " + rate);
     System.out.println("Time Duration: " + time);
     System.out.println("Simple Interest: " + interest);
   }
